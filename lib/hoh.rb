@@ -56,7 +56,7 @@ def naming_system
             sub_category: {
               PORTION_2,
               sub_category: {
-                PORTION_3,
+                PORTION_3
                 sub_category: {
                   PORTION_4
                 }
