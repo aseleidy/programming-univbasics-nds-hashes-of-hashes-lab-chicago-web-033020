@@ -52,11 +52,11 @@ def naming_system
       sub_category: {
         label: "Phylum",
         sub_category: {
-          label: "Class"
+          label: "Class",
             sub_category: {
-              PORTION_2
+              PORTION_2,
               sub_category: {
-                PORTION_3
+                PORTION_3,
                 sub_category: {
                   PORTION_4
                 }
