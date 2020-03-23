@@ -47,7 +47,6 @@ def naming_system
     PORTION_3[:sub_category][:sub_category] = PORTION_4
   
   naming = {
-    PORTION_1 {PORTION_2
     PORTION_1 = {
       label: "Kingdom",
       sub_category: {
